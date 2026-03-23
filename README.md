@@ -27,7 +27,7 @@ This commands includes
 <BR>
 
 ## Output
-
+```
 1.netsat
 <img width="1070" height="565" alt="image" src="https://github.com/user-attachments/assets/a626992a-3710-489a-99cb-8ae9c0d658d6" />
 2.ipconfig
@@ -48,7 +48,7 @@ This commands includes
 <img width="876" height="500" alt="image" src="https://github.com/user-attachments/assets/9389e4f4-b7c8-4088-a99d-5c5b754b396d" />
 10.systeminfo
 <img width="877" height="606" alt="image" src="https://github.com/user-attachments/assets/54458574-9920-4f9a-8737-5971481a52c6" />
-
+```
 
 ## Result
 Thus Execution of Network commands Performed 
